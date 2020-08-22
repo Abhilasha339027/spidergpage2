@@ -1,0 +1,180 @@
+body{
+    font-family: SegoeUI-Bold;
+}
+.form-inline{
+    margin-right: 7vw !important;
+}
+.form-inline a{
+    margin-left: 1.6vw;
+    font-size: 1.3vw;
+    font-weight: 500;
+    color: #707070 !important;	
+    font-family:Poppins-Bold;
+}
+#top_button{
+    margin-left: 23%;
+    font-weight: 400;
+    font-size: 2vw;
+    margin-top: 20%;
+    border-radius: 60px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: white;
+
+}
+#top_button :hover
+{
+    margin-left: 30%;
+    font-weight: 400;
+    font-size: 3vw;
+    margin-top: 30%;
+    border-radius: 60px;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color:#6634CB;
+}
+.row button:hover
+{
+    background-color: #7442c8 !important;
+    color: white !important;
+    font-weight: 500 !important;
+}
+#two{
+    border-radius:200;
+    margin-top:0px;
+    height:8vw;
+    width:40%;
+    float: left;
+
+}
+#one{
+    height: 3.2vw;
+    width:40%;
+    margin-top:2.5vw;
+    border-radius:15px;
+    float:right;
+}
+#heading{
+    text-align:center;
+    font-size: 5vw;
+    font-weight: 500px;
+    margin-top: 7%;
+    text-decoration: underline;
+
+}
+#text1{
+    text-align: center;
+    font-size:2vw;
+    margin-top:0.2%;
+}
+#imagex{
+    position:absolute;
+    padding-top:0px;
+    height:60vw;
+    width:45vw;
+    margin-top:-55%;
+
+}
+#image1{
+    float:left;
+    position:absolute;
+    padding-top:0px;
+    height:30vw;
+    width:16vw;
+}
+#image2{
+    float:right;
+    position:absolute;
+    padding-top:0px;
+    height: 30vw;
+    width:16vw;
+    margin-top:10%;
+}
+#text1{
+    text-align:center;
+    font-size:1.5vw;
+    margin-top:0.2%;
+}
+#button{
+    text-align:center;
+    border-radius:500px;
+    margin-left: 40%;
+    font-size: 2vw;
+    background-color: white;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-weight: 400;
+}
+#head{
+    text-align: center;
+    margin-top: 20%;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#div{
+    margin-top:12%;
+}
+#main{
+    margin-top: 12%;
+}
+#cat1{
+    font-size: 1.8vw;
+   font-weight: bold;
+   text-decoration: underline;
+    margin-top:-3rem;
+}
+#cat2{
+    font-size: 1.6vw;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: -2rem;
+}
+#cat3{
+    font-size: 1.6vw;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: -2rem;
+}
+#cat4{
+    font-size: 1.6vw;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: -2rem;
+}
+#cat span{
+    font-size: 1.2vw;
+    text-align: center;
+    color:#6634CB;
+}
+.row	.jumbotron{
+    background-color: white;
+    margin-top:40%;
+    height: 30vw;
+    border-radius:50px;
+
+
+}
+#main button{
+    margin-bottom: 3%;
+    margin-left: 20%;
+    border-radius: 60px;
+    font-size: 1.5vw;
+    background-color:white;
+    color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+#social img{
+    height: 1.5vw;
+    width: 1.6vw;
+    border-radius:900px;
+    display: inline-block;
+}
+ul{
+    font-size: 0.8vw;
+}
